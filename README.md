@@ -7,6 +7,18 @@ This repository contains experiments for segmenting **Lower Grade Glioma (LGG) M
 
 ---
 
+## 🧠 Architecture & Training Pipeline
+
+<p align="center">
+  <img src="assets/q1_unet_architecture_pipeline.png"
+       alt="CBAM-enhanced U-Net architecture and training pipeline for LGG brain MRI tumor segmentation"
+       width="100%">
+</p>
+
+<p align="center">
+  <em>Complete pipeline from MRI preprocessing and data augmentation to CBAM-enhanced U-Net training, validation, and segmentation output.</em>
+</p>
+
 ## 1️⃣ Dataset
 
 - **Source:** [Kaggle LGG MRI Segmentation Dataset](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
